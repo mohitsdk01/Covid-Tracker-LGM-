@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Covid 19 Tracker</string>
+    <string name="letsgrowmore">LetsGrowMore</string>
+    <string name="total_world_cases">Total World Cases</string>
+</resources>
